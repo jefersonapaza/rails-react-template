@@ -23,16 +23,15 @@ Make sure you have the following installed:
 
    yarn install
 
+4. 🚀 **Running the Application**
 
-🚀 **Running the Application**
+   yarn build
 
-yarn build
+   rake assets:precompile
 
-rake assets:precompile
+5. **Start the Rails server:**
 
-**Start the Rails server:**
-
-rails server
+   rails server
 
 
 Open your browser and navigate to http://localhost:3000 to see the application running.
